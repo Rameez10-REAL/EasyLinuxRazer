@@ -6,3 +6,4 @@ sudo gpasswd -a $USER plugdev
 sudo add-apt-repository ppa:polychromatic/stable -y
 sudo apt update -y
 sudo apt install polychromatic -y
+echo Restart your device and open "Polychromatic"
